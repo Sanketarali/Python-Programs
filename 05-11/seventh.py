@@ -1,0 +1,10 @@
+x=10
+y=10
+a=90
+b=60
+print(x==y)
+print(x!=y)
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=b)
